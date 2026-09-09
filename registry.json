@@ -7,7 +7,7 @@
       "description": "Independently checks CPA Codex credentials with a strict Responses/SSE completion check.",
       "author": "Cai Feng",
       "version": "0.1.11",
-      "repository": "https://github.com/tapaixx/CLIProxyAPI-Plugins-Store",
+      "repository": "https://github.com/hg3386628/codex-health-monitor",
       "homepage": "https://github.com/hg3386628/codex-health-monitor",
       "license": "MIT",
       "tags": [
