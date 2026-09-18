@@ -6,7 +6,7 @@
       "name": "Codex Header Rewrite",
       "description": "Rewrites Codex credential request headers per auth index, runs custom test requests, flags upstream model mismatches, and tracks X-Codex-Turn-State provenance across credentials.",
       "author": "tapaixx",
-      "version": "0.5.0",
+      "version": "0.5.1",
       "repository": "https://github.com/tapaixx/codex-header-rewrite",
       "homepage": "https://github.com/tapaixx/codex-header-rewrite",
       "license": "MIT",
