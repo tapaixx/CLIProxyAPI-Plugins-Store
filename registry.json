@@ -2,6 +2,24 @@
   "schema_version": 1,
   "plugins": [
     {
+      "id": "codex-header-rewrite",
+      "name": "Codex Header Rewrite",
+      "description": "Rewrites Codex credential request headers per auth index with Set/Override/Remove rules and keeps a masked request and response header history.",
+      "author": "tapaixx",
+      "version": "0.1.0",
+      "repository": "https://github.com/tapaixx/codex-header-rewrite",
+      "homepage": "https://github.com/tapaixx/codex-header-rewrite",
+      "license": "MIT",
+      "tags": [
+        "Management",
+        "Headers",
+        "Codex",
+        "Linux",
+        "amd64",
+        "arm64"
+      ]
+    },
+    {
       "id": "codex-health-monitor",
       "name": "Codex Health Monitor",
       "description": "Independently checks CPA Codex credentials with a strict Responses/SSE completion check.",
