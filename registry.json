@@ -24,7 +24,7 @@
       "name": "Codex Health Monitor",
       "description": "Independently checks CPA Codex credentials with a strict Responses/SSE completion check.",
       "author": "tapaixx",
-      "version": "0.1.11",
+      "version": "0.1.11-6",
       "repository": "https://github.com/tapaixx/codex-health-monitor",
       "homepage": "https://github.com/tapaixx/codex-health-monitor",
       "license": "MIT",
